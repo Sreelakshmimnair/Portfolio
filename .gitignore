@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 /assets
+/src/assets/
+
 profile1.jpg
 Resume.pdf
 # testing
