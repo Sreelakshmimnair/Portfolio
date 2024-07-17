@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/assets
+profile1.jpg
+Resume.pdf
 # testing
 /coverage
 
