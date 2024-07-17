@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Row, Col, Image, Button } from 'react-bootstrap';
 import '../App.css';
-import Profile from '../assets/profile.jpg';
+import Profile from '../assets/profile1.jpg';
 import Resumes from '../assets/Resume.pdf';
 
 const About = () => {
